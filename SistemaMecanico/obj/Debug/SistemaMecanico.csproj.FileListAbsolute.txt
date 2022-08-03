@@ -1,0 +1,45 @@
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\bin\Debug\SistemaMecanico.exe
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\bin\Debug\SistemaMecanico.exe.config
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\bin\Debug\itextsharp.dll
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.Properties.Resources.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.AltasCitas.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.AltasUsuarios.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.ConsultasUsuarios.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.Servicio.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.MenuPrincipal.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.csproj.GenerateResource.Cache
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.exe
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico\SistemaMecanico\obj\Debug\SistemaMecanico.pdb
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\bin\Debug\SistemaMecanico.exe.config
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.exe
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.pdb
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\bin\Debug\SistemaMecanico.exe
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\bin\Debug\SistemaMecanico.pdb
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\bin\Debug\itextsharp.dll
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.Properties.Resources.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.AltasCitas.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.AltasUsuarios.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.ConsultasUsuarios.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.Servicio.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.MenuPrincipal.resources
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.csproj.GenerateResource.Cache
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanico - copia\SistemaMecanico\obj\Debug\SistemaMecanico.csprojResolveAssemblyReference.cache
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanicoOriginal\SistemaMecanico\bin\Debug\SistemaMecanico.exe.config
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.exe
+C:\Users\juliocesar\Documents\Visual Studio 2012\Projects\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.pdb
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\bin\Debug\SistemaMecanico.exe.config
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.exe
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.pdb
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\bin\Debug\SistemaMecanico.exe
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\bin\Debug\SistemaMecanico.pdb
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.Properties.Resources.resources
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.AltasCitas.resources
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.AltasUsuarios.resources
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.ConsultasUsuarios.resources
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.Servicio.resources
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.Vista.MenuPrincipal.resources
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.csproj.GenerateResource.Cache
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\obj\Debug\SistemaMecanico.Form1.resources
+C:\Users\Manuel\Downloads\SistemaMecanicoOriginal\SistemaMecanico\bin\Debug\IrisSkin2.dll
